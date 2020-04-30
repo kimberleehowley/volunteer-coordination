@@ -8,7 +8,7 @@ This Github README walks through how to automate volunteer text reminders using 
 This project integrates Twilio and Airtable through Zapier to send automatic text reminders whenever a volunteer has an event coming up in fewer than four hours. 
 
 ## How to use it 
-_You can find more details instructions over at Dev.to_
+_You can find more details instructions over at [Dev.to](https://dev.to/kimberleejohnson/remind-volunteers-when-and-where-to-be-with-twilio-airtable-and-zapier-34a3)_
 1. Copy this [Airtable Base](https://airtable.com/apppKrJy5Y3wCznHj).
 2. Add in your own records. You can send out the Volunteer sign up form, or add volunteers manually. You'll also need to add Needs (lists of asks from the community), and Events, the time when you're matching volunteers to fulfill those Needs.
 3. Create a Twilio account if you don't have one already. 
@@ -24,7 +24,7 @@ _You can find more details instructions over at Dev.to_
 * [Zapier account](https://zapier.com/)
 
 ### Resources 
-* Dev.to post 
+* [Dev.to post](https://dev.to/kimberleejohnson/remind-volunteers-when-and-where-to-be-with-twilio-airtable-and-zapier-34a3) 
 
 ### Contributing 
 * Reach out to `hello@kimberlee.dev` if you're interested in contributing. 
