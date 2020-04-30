@@ -72,9 +72,7 @@ And that was it! There are lots of things I could do to improve, and I know ther
 I’m excited to explore all the options I can. I thought these automated reminders would involve a lot more time and work, and I was surprised to find a practically no code solution. This was another lesson for me that it’s always good to start looking at systems already in place, meeting your users, in my case volunteer organizers, where they’re at, and understanding their needs before jumping into building something from scratch. I love when existing tools free up time to be a helper in other ways. 
 
 ### Resources 
-* [Volunteer Coordination Database template](https://airtable.com/invite/l?inviteId=inv9JYUH1AMIDWkt1&inviteToken=142155a70ea25d910a65c301ad1288769800d97a8920f44d54d1bf63d0e051ba)
-*[Dev.to post]()
-* If you need help with this, or have questions about anything else, say hi any time at `hello@kimberlee.dev` 
-
-_And, a note! The cover photo for this post is courtesy [fnnch and ABC News](https://abc7news.com/coronavirus-san-francisco-update-sf-art-fnnch/6096628/)_.
+** [Volunteer Coordination Database template](https://airtable.com/invite/l?inviteId=inv9JYUH1AMIDWkt1&inviteToken=142155a70ea25d910a65c301ad1288769800d97a8920f44d54d1bf63d0e051ba)
+** [Dev.to post]
+** If you need help with this, or have questions about anything else, say hi any time at `hello@kimberlee.dev` 
 
