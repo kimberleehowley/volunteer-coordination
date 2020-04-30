@@ -20,7 +20,7 @@ _You can find more details instructions over at Dev.to_
 
 ### Requirements 
 * An [Airtable account](https://airtable.com/tblNvv1RVuxVxgI8W/viwbFcn3F34QmJMGX?blocks=hide) and a copy of [this Base]()
-* [Twilio account](www.twilio.com/referral/avaKmb)
+* [Twilio account](www.twilio.com/referral/avaKmb) and [Twilio Phone Number](https://support.twilio.com/hc/en-us/articles/223135247-How-to-Search-for-and-Buy-a-Twilio-Phone-Number-from-Console)
 * [Zapier account](https://zapier.com/)
 
 ### Resources 
