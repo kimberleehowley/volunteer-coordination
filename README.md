@@ -1,7 +1,4 @@
----
-title: Remind volunteers when and where to be with Twilio, Airtable, and Zapier 
-description: Helping COVID-19 community response teams coordinate neighbors helping neighbors. A Twilio x DEV Hackathon submission.
----
+# Remind volunteers when and where to be with Twilio, Airtable, and Zapier 
 _Helping COVID-19 community response teams coordinate neighbors helping neighbors. A Twilio x DEV Hackathon submission for Engaging Engagements and/or Interesting Integrations._ 
 
 ## Automating volunteer reminder texts for COVID-19 community response teams 
@@ -76,7 +73,7 @@ I’m excited to explore all the options I can. I thought these automated remind
 
 ### Resources 
 * [Volunteer Coordination Database template](https://airtable.com/invite/l?inviteId=inv9JYUH1AMIDWkt1&inviteToken=142155a70ea25d910a65c301ad1288769800d97a8920f44d54d1bf63d0e051ba)
-* Github repository with README
+*[Dev.to post]()
 * If you need help with this, or have questions about anything else, say hi any time at `hello@kimberlee.dev` 
 
 _And, a note! The cover photo for this post is courtesy [fnnch and ABC News](https://abc7news.com/coronavirus-san-francisco-update-sf-art-fnnch/6096628/)_.
