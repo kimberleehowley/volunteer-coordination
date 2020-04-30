@@ -19,9 +19,9 @@ _You can find more details instructions over at Dev.to_
 ## Set up 
 
 ### Requirements 
-* An Airtable account and Base
-* Twilio account 
-* Zapier account 
+* An [Airtable account](https://airtable.com/tblNvv1RVuxVxgI8W/viwbFcn3F34QmJMGX?blocks=hide) and a copy of [this Base]()
+* [Twilio account](www.twilio.com/referral/avaKmb)
+* [Zapier account](https://zapier.com/)
 
 ### Resources 
 * Dev.to post 
@@ -30,4 +30,4 @@ _You can find more details instructions over at Dev.to_
 * Reach out to `hello@kimberlee.dev` if you're interested in contributing. 
 
 ### License 
-[MIT}(https://opensource.org/licenses/mit-license.html)
+[MIT](https://opensource.org/licenses/mit-license.html)
